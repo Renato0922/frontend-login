@@ -1,4 +1,4 @@
-const url = 'https://backend-login-seven.vercel.app/api'
+const url = 'https://backend-login-neon.vercel.app/api'
 
 // ---------POST ----------
 const postFuncionario = objetoCliente => {
